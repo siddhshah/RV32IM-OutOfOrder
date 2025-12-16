@@ -1,0 +1,5 @@
+{"vcs1":{"timestamp_begin":1761009052.411588375, "rt":0.16, "ut":0.06, "st":0.06}}
+{"SNPS_VCS_INTERNAL_ROOT_START_TIME": 1761009051.913216397}
+{"VCS_COMP_START_TIME": 1761009051.913216397}
+{"VCS_COMP_END_TIME": 1761009052.635128662}
+{"VCS_USER_OPTIONS": "-full64 -sverilog -timescale=1ns/1ps -debug_access+r+w-memcbk -debug_region+cell +incdir+../hdl ../hdl/fifo.sv ../hvl/vcs/fifo_tb.sv -top fifo_tb -o vcs/fifo_simv"}
